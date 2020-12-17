@@ -8,7 +8,7 @@ This is my final project attending the Data Analytics coding bootcamp at [Ironha
 #### -- Project Status: Completed
 
 ## Project Objective
-The purpose of this project is to do a customer segmentation based on three factors: **recency**, **frequency** and **monetary value** of their purchases. The dataset was found on [Kaggle] (https://www.kaggle.com/carrie1/ecommerce-data) and I especially want to thank Miljan Stojiljkovic and your [notebook] (https://www.kaggle.com/miljan/customer-segmentation) where you show how to give the RFM score in an easy way using Python. 
+The purpose of this project is to do a customer segmentation based on three factors: **recency**, **frequency** and **monetary value** of their purchases. The dataset was found on [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data) and I especially want to thank Miljan Stojiljkovic and your [notebook](https://www.kaggle.com/miljan/customer-segmentation) where you show how to give the RFM score in an easy way using Python. 
 
 The dataset consits of information on over 500 000 transactions spanning over one year for an ecommerce based in the UK who's customers are mostly wholesalers. Two different techniques was used to form the clusters. One of them was a more simple approach, simply assigning a score on these factors based on the customers behaviour in relation to other customers. The other one was using the K-Means clustering technique and having the machine learning algorithm clustering the customers based on the same three factors. 
 
@@ -18,7 +18,7 @@ The dataset consits of information on over 500 000 transactions spanning over on
 * Data Visualization
 
 ## Dataset 
-I utilised the dataset "data2.csv" located in the repo. Can also be found on [Kaggle] (https://www.kaggle.com/carrie1/ecommerce-data). 
+I utilised the dataset "data2.csv" located in the repo. Can also be found on [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data). 
 
 ## Workflow
 First the dataset was cleaned, explored and extended by adding more columns. Statistical testing was performed to further explore if these trends were significant. 
@@ -45,6 +45,6 @@ This repository contains the following files:
 - Presentation: 
     - presentation.pdf (made with Google Slides)
 
-Vizualisations can be found on [Tableau Public] (https://public.tableau.com/profile/elin.v.ngbo#!/vizhome/EcommerceCustomerSegmentation/SegmentOverview)
+Vizualisations can be found on [Tableau Public](https://public.tableau.com/profile/elin.v.ngbo#!/vizhome/EcommerceCustomerSegmentation/SegmentOverview)
 
 
