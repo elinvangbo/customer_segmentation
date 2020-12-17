@@ -1,4 +1,4 @@
-# Customer segmentation in two ways
+# Customer Segmentation - two ways
 This is my final project attending the Data Analytics coding bootcamp at [Ironhack Berlin](https://www.ironhack.com/en/berlin).
 
 *Elin Vängbo* 
