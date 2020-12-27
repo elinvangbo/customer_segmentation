@@ -17,6 +17,12 @@ The dataset consits of information on over 500 000 transactions spanning over on
 * Quantiles 
 * Data Visualization
 
+### Technologies 
+* Python
+* Pandas, NumPy, Seaborn
+* sklearn, plotly, matplotlib
+* Tableau
+
 ## Dataset 
 I utilised the dataset "data2.csv" located in the repo. Can also be found on [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data). 
 
